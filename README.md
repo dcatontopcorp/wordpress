@@ -4,7 +4,7 @@ WordPress is a free and open source blogging tool and a dynamic content manageme
 
 ## Deploying to Stackato
 
-    $ git clone git://github.com/Stackato-Apps/wordpress.git
+    $ git clone git://github.com/dcatontopcorp/wordpress.git
     $ cd wordpress
     $ stackato push -n
     
